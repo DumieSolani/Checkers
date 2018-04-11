@@ -1,0 +1,16 @@
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.Test.deps.json
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.Test.runtimeconfig.json
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.Test.runtimeconfig.dev.json
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.Test.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.Test.pdb
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\bin\Debug\netcoreapp2.0\Checkers.pdb
+C:\Users\Dumisani\Checkers\Checkers.Test\obj\Debug\netcoreapp2.0\Checkers.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dumisani\Checkers\Checkers.Test\obj\Debug\netcoreapp2.0\Checkers.Test.AssemblyInfoInputs.cache
+C:\Users\Dumisani\Checkers\Checkers.Test\obj\Debug\netcoreapp2.0\Checkers.Test.AssemblyInfo.cs
+C:\Users\Dumisani\Checkers\Checkers.Test\obj\Debug\netcoreapp2.0\Checkers.Test.dll
+C:\Users\Dumisani\Checkers\Checkers.Test\obj\Debug\netcoreapp2.0\Checkers.Test.pdb
